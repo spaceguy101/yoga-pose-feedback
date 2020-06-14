@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yoga-pose-feedback/static/css/main.65cec49f.chunk.css",
-    "main.js": "/yoga-pose-feedback/static/js/main.8d1646f9.chunk.js",
-    "main.js.map": "/yoga-pose-feedback/static/js/main.8d1646f9.chunk.js.map",
+    "main.js": "/yoga-pose-feedback/static/js/main.40edbdfa.chunk.js",
+    "main.js.map": "/yoga-pose-feedback/static/js/main.40edbdfa.chunk.js.map",
     "runtime-main.js": "/yoga-pose-feedback/static/js/runtime-main.189e8261.js",
     "runtime-main.js.map": "/yoga-pose-feedback/static/js/runtime-main.189e8261.js.map",
     "static/css/2.a33d7f97.chunk.css": "/yoga-pose-feedback/static/css/2.a33d7f97.chunk.css",
     "static/js/2.25baddcc.chunk.js": "/yoga-pose-feedback/static/js/2.25baddcc.chunk.js",
     "static/js/2.25baddcc.chunk.js.map": "/yoga-pose-feedback/static/js/2.25baddcc.chunk.js.map",
     "index.html": "/yoga-pose-feedback/index.html",
-    "precache-manifest.79ffe434ea6b5797eaa64cffad1c1737.js": "/yoga-pose-feedback/precache-manifest.79ffe434ea6b5797eaa64cffad1c1737.js",
+    "precache-manifest.8b0ecf49d0a1a34d1e13a6bb112863d4.js": "/yoga-pose-feedback/precache-manifest.8b0ecf49d0a1a34d1e13a6bb112863d4.js",
     "service-worker.js": "/yoga-pose-feedback/service-worker.js",
     "static/css/2.a33d7f97.chunk.css.map": "/yoga-pose-feedback/static/css/2.a33d7f97.chunk.css.map",
     "static/css/main.65cec49f.chunk.css.map": "/yoga-pose-feedback/static/css/main.65cec49f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.a33d7f97.chunk.css",
     "static/js/2.25baddcc.chunk.js",
     "static/css/main.65cec49f.chunk.css",
-    "static/js/main.8d1646f9.chunk.js"
+    "static/js/main.40edbdfa.chunk.js"
   ]
 }

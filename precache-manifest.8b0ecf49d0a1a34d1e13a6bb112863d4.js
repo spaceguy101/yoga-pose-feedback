@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76c22a1d6aae6ddb623f2de20277b5d2",
+    "revision": "29a611b259073fcb802995e54867e0e7",
     "url": "/yoga-pose-feedback/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yoga-pose-feedback/static/css/2.a33d7f97.chunk.css"
   },
   {
-    "revision": "7f110d49c370360aa85d",
+    "revision": "8490c0f13bb7219be8d4",
     "url": "/yoga-pose-feedback/static/css/main.65cec49f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yoga-pose-feedback/static/js/2.25baddcc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f110d49c370360aa85d",
-    "url": "/yoga-pose-feedback/static/js/main.8d1646f9.chunk.js"
+    "revision": "8490c0f13bb7219be8d4",
+    "url": "/yoga-pose-feedback/static/js/main.40edbdfa.chunk.js"
   },
   {
     "revision": "ecb7d2f7ed82739b25a7",

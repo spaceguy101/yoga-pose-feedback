@@ -101,7 +101,7 @@ export default class PoseNet extends Component {
 
         return (
             <div style={{ "display": "inline-block" }}>
-                <video style={{ display: "block", "-webkit-transform": "scaleX(-1)", "transform": "scaleX(-1)" }} className="video" playsInline ref={this.setRef} />
+                <video className="video" playsInline ref={this.setRef} />
                 {this.props.children(this.state.poses)}
             </div>
         );
